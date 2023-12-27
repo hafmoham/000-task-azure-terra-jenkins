@@ -5,5 +5,5 @@ variable "resource_group_location" {
 
 variable "resource_group_name" {
   type        = string
-  default     = "rg-000-task-github-terra-azure-jenkins"
+  default     = "rg-000-task"
 }
